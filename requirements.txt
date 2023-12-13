@@ -1,0 +1,4 @@
+Flask==3.0.0
+inflection==0.5.1
+numpy==1.25.2
+pandas==2.1.4
